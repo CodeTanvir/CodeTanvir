@@ -1,3 +1,47 @@
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdtalhacy&theme=github_dark)
+
+- 🏆 **610 Contributions** on GitHub  
+- 📂 **28 Public Repos**  
+- 🕒 **Joined GitHub 3 years ago**  
+- 📧 **info.tanvirx@gmail.com** 
+
+---
+
+## Stats  
+
+- ⭐ **Total Stars:** 11  
+- 🔄 **Total Commits:** 504  
+- 📌 **Total PRs:** 12  
+- 🛠 **Total Issues:** 1  
+- 🔗 **Contributed to:** 12  
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdtalhacy&theme=github_dark)
+
+---
+
+## Top Languages by Repo  
+
+- ☕ **Java**  
+- 🌐 **HTML**  
+- 📜 **JavaScript**  
+- 🎭 **Racket**  
+- 🎨 **Scheme**  
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdtalhacy&theme=github_dark)
+
+---
+
+## Top Languages by Commit  
+
+- There are no commits in the last year  
+
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdtalhacy&theme=github_dark)
+
+---
+
+## Commits (UTC +0.00)  
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdtalhacy&theme=github_dark)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirhossain.4444) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirhossainweb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ImTanvir_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.tanvirx@gmail.com) 
